@@ -1,0 +1,23 @@
+.app-container {
+  text-align: center;
+}
+.category-buttons button {
+  margin: 5px;
+  padding: 10px;
+  cursor: pointer;
+}
+.menu-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.menu-item {
+  border: 1px solid #ddd;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+}
+.menu-item img {
+  width: 100px;
+  height: 100px;
+}
